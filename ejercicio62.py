@@ -8,3 +8,9 @@ print("Primer caracter de su apellido")
 print(apellido[0])
 print("Cantidad de letras del apellido:")
 print(len(apellido))
+len_nombre=len(apellido)
+len_apellido=len(nombre)
+if len_nombre>len_apellido:
+    print("El apellido tiene mas letyras que el nombre")
+    else:
+        print("El apellido tiene mas letyras que el nombre")
